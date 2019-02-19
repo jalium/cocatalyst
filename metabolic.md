@@ -94,7 +94,7 @@ Metabolic Data for Novel Cocatalyst
 
 ***
 
-#### succinte cocatalyst microbial fuel cell
+#### succinate cocatalyst microbial fuel cell
 
 ![my-graph](https://raw.githubusercontent.com/jalium/cocatalyst/master/metabolic_images/unnamed-chunk-14-1.png)
 
