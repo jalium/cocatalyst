@@ -54,41 +54,57 @@ Metabolic Data for Novel Cocatalyst
 
 #### glucose cofermentation
 
-![](metabolic_files/figure-markdown_github/unnamed-chunk-7-1.png)
 ![my-graph](https://raw.githubusercontent.com/jalium/cocatalyst/master/metabolic_images/unnamed-chunk-7-1.png)
+
+***
 
 #### succinate cofermentation
 
-![](metabolic_files/figure-markdown_github/unnamed-chunk-8-1.png)
 ![my-graph](https://raw.githubusercontent.com/jalium/cocatalyst/master/metabolic_images/unnamed-chunk-8-1.png)
+
+***
 
 #### acetate cofermentation
 
 ![my-graph](https://raw.githubusercontent.com/jalium/cocatalyst/master/metabolic_images/unnamed-chunk-9-1.png)
 
+***
+
 #### propionate cofermentation
 
 ![my-graph](https://raw.githubusercontent.com/jalium/cocatalyst/master/metabolic_images/unnamed-chunk-10-1.png)
+
+***
 
 #### cofermentation grid
 
 ![my-graph](https://raw.githubusercontent.com/jalium/cocatalyst/master/metabolic_images/unnamed-chunk-11-1.png)
 
+***
+
 #### glucose cocatalyst microbial fuel cell
 
 ![my-graph](https://raw.githubusercontent.com/jalium/cocatalyst/master/metabolic_images/unnamed-chunk-12-1.png)
+
+***
 
 #### acetate cocatalyst microbial fuel cell
 
 ![my-graph](https://raw.githubusercontent.com/jalium/cocatalyst/master/metabolic_images/unnamed-chunk-13-1.png)
 
+***
+
 #### succinte cocatalyst microbial fuel cell
 
 ![my-graph](https://raw.githubusercontent.com/jalium/cocatalyst/master/metabolic_images/unnamed-chunk-14-1.png)
 
+***
+
 #### propionate cocatalyst microbial fuel cell
 
 ![my-graph](https://raw.githubusercontent.com/jalium/cocatalyst/master/metabolic_images/unnamed-chunk-15-1.png)
+
+***
 
 #### cocatalyst microbial fuel cell grid
 
