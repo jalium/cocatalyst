@@ -6,7 +6,7 @@ This repository presents a selection of data from a masters thesis project which
 High Performance Liquid Chromatography was used to generate the metabolic data presented in this repository. Raw data is available [here]().  
 
 ## Rmarkdown
-The R script used to visualize the metabolic data is shown [here]().
+The R script used to visualize the metabolic data is shown [here](https://github.com/jalium/cocatalyst/blob/master/metabolic.Rmd) and the respective images are displayed [here](https://github.com/jalium/cocatalyst/blob/master/metabolic.md).
 
 ## Scientific Purpose and Results
 
