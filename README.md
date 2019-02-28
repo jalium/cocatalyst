@@ -6,7 +6,7 @@ This repository presents a selection of data from a masters thesis project which
 High Performance Liquid Chromatography was used to generate the metabolic data presented in this repository. Raw data is available [here]().  
 
 ## Rmarkdown
-The R script used to visualize the metabolic data is shown [here]. 
+The R script used to visualize the metabolic data is shown [here]().
 
 ## Scientific Purpose and Results
 
