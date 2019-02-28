@@ -6,7 +6,7 @@ This repository presents a selection of data from a masters thesis project which
 High Performance Liquid Chromatography was performed to generate metabolic data that corresponded with cocatalyst growth. This repository houses the [raw metabolic data]() that was collected for this project.  
 
 ## R script
-The R script used to visualize the metabolic data is shown [here](https://github.com/jalium/cocatalyst/blob/master/metabolic.Rmd) with the respective outputs displayed [Rmarkdown](https://github.com/jalium/cocatalyst/blob/master/metabolic.md).
+The R script used to visualize the metabolic data is shown [here](https://github.com/jalium/cocatalyst/blob/master/metabolic.Rmd) with the respective outputs displayed in [Rmarkdown](https://github.com/jalium/cocatalyst/blob/master/metabolic.md).
 
 ## Scientific Purpose and Results
 
