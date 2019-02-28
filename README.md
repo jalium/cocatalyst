@@ -3,10 +3,10 @@
 This repository presents a selection of data from a masters thesis project which can be accessed [here](https://ruor.uottawa.ca/handle/10393/38450).
 
 ## HPLC Data
-High Performance Liquid Chromatography was used to generate the metabolic data presented in this repository. Raw data is available [here]().  
+High Performance Liquid Chromatography was used to generate the metabolic data presented in this repository. This repository houses the [raw data]() collected for this project.  
 
-## Rmarkdown
-The R script used to visualize the metabolic data is shown [here](https://github.com/jalium/cocatalyst/blob/master/metabolic.Rmd) and the respective images are displayed [here](https://github.com/jalium/cocatalyst/blob/master/metabolic.md).
+## R script
+The R script used to visualize the metabolic data is shown [here](https://github.com/jalium/cocatalyst/blob/master/metabolic.Rmd) with the respective outputs displayed [Rmarkdown](https://github.com/jalium/cocatalyst/blob/master/metabolic.md).
 
 ## Scientific Purpose and Results
 
